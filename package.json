@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "Evan <github@erosson.org>",
   "scripts": {
+    "prepare": "elm-package install",
     "dev": "elm-live src/Main.elm"
   },
   "license": "MIT"

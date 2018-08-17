@@ -1,0 +1,3 @@
+usage, assuming nodejs is installed:
+* npm install
+* npm run dev
