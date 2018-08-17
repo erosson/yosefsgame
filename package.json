@@ -1,0 +1,10 @@
+{
+  "name": "yosefsgame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Evan <github@erosson.org>",
+  "scripts": {
+    "dev": "elm-live src/Main.elm"
+  },
+  "license": "MIT"
+}
